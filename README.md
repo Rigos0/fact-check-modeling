@@ -1,1 +1,1 @@
-A bachelor thesis on modelling argumentation in fact-check reports.
+A bachelor thesis on modeling argumentation in fact-check reports.
